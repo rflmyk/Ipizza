@@ -1,0 +1,11 @@
+/* TEAM */
+Designer:     Rafael Mayrink
+Developer:    Rafael Mayrink
+Contact:      contato [at] rafaelmayrink.com
+Twitter:      @r_mayrink
+
+/* SITE */
+Last update:  19.11.12
+Language:     Brazilian Portuguese (PT-BR)
+Doctype:      HTML5
+Tools:	      HTML, CSS, JAVASCRIPT
