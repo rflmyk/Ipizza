@@ -1,4 +1,4 @@
-![image](https://a248.e.akamai.net/camo.github.com/837f1cd26144aeed2ee2d818d995575d9ef66755/687474703a2f2f72616661656c6d617972696e6b2e636f6d2f496d67734578742f6c6f676f4970697a7a614769744875622e6a7067)
+
 #Sua pizza do seu jeito!
 Aplicação para realização de pedidos online.
 
