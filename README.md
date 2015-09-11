@@ -1,5 +1,7 @@
 
 #Sua pizza do seu jeito!
+
+[![Join the chat at https://gitter.im/rmayrink/Ipizza](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/rmayrink/Ipizza?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Aplicação para realização de pedidos online.
 
 ###Configurando:
